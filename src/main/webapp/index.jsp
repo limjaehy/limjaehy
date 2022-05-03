@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>github연동 프로젝트</h1>
+	<hr>
+	<h2>두번째 버전 생성</h2>
 </body>
 </html>
